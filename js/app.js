@@ -5,10 +5,10 @@
 // init controller
 //var controller = new ScrollMagic.Controller();
 var defaultName = {
-    title: 'For my honey',
-    from: '阿木',
-    to:   '我最亲爱的老婆阿紫～',
-    wish: '情人节快乐！'
+    title: 'For my love',
+    from: 'NIKHIL',
+    to:   'SHREYA',
+    wish: 'I LOVE YOU'
 };
 
 var hashKey = {
